@@ -5,6 +5,7 @@ send packets to a samp server and print the result.
 - **USAGE:** 
 ```python
 python samp.py -t 127.0.0.1 -p 7777
+```
 
 - **INSTALL PYTHON:** 
 ```diff
