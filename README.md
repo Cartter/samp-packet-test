@@ -9,6 +9,7 @@ python samp.py -t 127.0.0.1 -p 7777
 - **INSTALL PYTHON:** 
 ```diff
 sudo apt-get install python3
+```
 
 ![recv-packet](https://user-images.githubusercontent.com/49288635/172060382-197ab05f-c9cf-47e7-ab1b-38a77c4246d3.png)
 
